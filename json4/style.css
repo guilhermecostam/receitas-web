@@ -1,0 +1,11 @@
+#cervejasDiv, #cervejasDiv td, #cervejasDiv th {
+    background: #B1B1B1;
+    color: #FFF;
+    font-weight: bold;
+    border-style: solid;
+    border-top-color: #DFDFDF;
+    border-right-color: #666;
+    border-bottom-color: #333;
+    border-left-color: #858585;
+    height: 30px;
+}
