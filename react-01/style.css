@@ -1,0 +1,15 @@
+
+ #tabela td, #tabela th {
+    border: 1px solid;
+    padding: 8px;
+ }
+
+ #tabela tr:nth-child(even){
+    background-color: #d3c8c8;
+ }
+
+ #tabela th {
+    padding: 12px;
+    background-color: #e91e1e;
+    color: white;
+ }
